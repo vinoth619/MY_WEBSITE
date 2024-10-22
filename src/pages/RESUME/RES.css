@@ -1,0 +1,23 @@
+.download_button{
+    display: flex;
+    justify-content: end;
+}
+.download_button button{
+    background-color:red;
+    color: white;
+    margin-right: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 1em;
+}
+.download_button button:hover{
+ background-color: green;
+}
+.mainsheet{
+    display: flex;
+    justify-content: center;
+    
+}.print{
+  border: 1px solid black;
+  width: 50%;
+  }
